@@ -1,8 +1,2 @@
 #!/bin/bash
-for file in *.html; do
-    if [[ -f ../"$file" && "$file" -ot ../"$file" ]]; then
-        echo ""
-    else
-        cp "$file" ../
-    fi
-done
+cp -u --backup=numbered --no-target-directory *.html ..

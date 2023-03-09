@@ -18,3 +18,5 @@ This script adds execution permission to the owner, the group owner and the othe
 This script sets no permission to the owner, no permission to the group and all the permissions to other users.
 ## 9-John_Doe
 This script assigns the mode of the file as suggested.
+## 10-mirror_permissions
+This script sets the mode of the file hello the same as olleh's mode.

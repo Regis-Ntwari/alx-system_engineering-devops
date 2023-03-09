@@ -6,3 +6,5 @@ This script displays the contents of your current directory.
 This script changes the working directory to the user's home directory.
 ## 3-listfiles
 This script displayes the current directory contents in a long format.
+## 4-listmorefiles
+This script displays curernt directory contents including hidden files.

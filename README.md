@@ -28,5 +28,7 @@ This script prints the type of the file named iamafile in the /tmp directory
 This script creates a symbolic link to /bin/ls, named __ls__
 ## 14-copy_html
 This script copies all HTML files from the current working directory to the parent working directory but if they do not exists in the parent or are newer than the versions in the parent of the working directory
-##100-lets_move
+## 100-lets_move
 This script moves all files beginning with an uppercase letter to the directory /tmp/u
+## 101-clean_emacs
+This script deletes all files in the current working directory that end with the character ~.

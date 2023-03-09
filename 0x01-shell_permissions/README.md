@@ -20,3 +20,5 @@ This script sets no permission to the owner, no permission to the group and all 
 This script assigns the mode of the file as suggested.
 ## 10-mirror_permissions
 This script sets the mode of the file hello the same as olleh's mode.
+## 11-directories_permissions
+This script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all the users

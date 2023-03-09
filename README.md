@@ -36,3 +36,5 @@ This script deletes all files in the current working directory that end with the
 This script creates the directories welcome/, welcome/to/ and welcome/to/school
 ## 103-commas
 This script list all files and directories of the current directory separated by commas, directories ending with a slash, hidden files and directories also visible, digits and letter used to sort
+## School.mgc
+This file can be used with the command file to detect School data files.

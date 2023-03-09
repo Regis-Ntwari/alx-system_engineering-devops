@@ -11,4 +11,6 @@ This script displays curernt directory contents including hidden files.
 ## 5-listfilesdigitonly
 This script displays current directory contentes in a long format, using numbers to represent user and group IDs and also hidden files
 ## 6-firstdirectory
-Thsi script creates a directory named my_first_directory in the /tmp/ directory
+This script creates a directory named my_first_directory in the /tmp/ directory
+## 7-movethatfile
+This script moves the file betty form /tmp/ to /tmp/my_first_directory/

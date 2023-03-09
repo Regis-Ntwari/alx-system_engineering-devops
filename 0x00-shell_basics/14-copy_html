@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -u --backup=numbered --no-target-directory *.html ..
+cp -u *.html ..

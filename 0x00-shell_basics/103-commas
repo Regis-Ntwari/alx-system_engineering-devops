@@ -1,3 +1,2 @@
 #!/bin/bash
-ls -1A | awk '{print $0 (NR%3==0 ? ",\n" : ",")}' | sed 's|/$|/,|' | sed -e '1s|^|./\n../\n|' | LC_ALL=C sort -df
-
+ls -avum 

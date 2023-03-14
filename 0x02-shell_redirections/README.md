@@ -6,3 +6,5 @@ This script prints out a confused smiley
 This sript displays the contents of the /etc/passwd file
 ## 3-twofiles
 This script displays the contents of the /etc/passwd file and the /etc/hosts file
+## 4-lastlines
+This script displays the last 10 lines of /etc/passwd file

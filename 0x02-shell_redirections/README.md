@@ -16,3 +16,5 @@ This script displays the third line of the file iacta
 This script creates a file with some symbols in it.
 ## 8-cws_state
 This script writes the contents of tls -la in a file called ls_cwd_content
+## 9-duplicate_last_line
+This script duplicates the last line of the file iacta

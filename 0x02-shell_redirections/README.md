@@ -12,3 +12,7 @@ This script displays the last 10 lines of /etc/passwd file
 This script displays the first 10 lines of the /etc/passwd file
 ## 6-third_line
 This script displays the third line of the file iacta
+## 7-file
+This script creates a file with some symbols in it.
+## 8-cws_state
+This script writes the contents of tls -la in a file called ls_cwd_content

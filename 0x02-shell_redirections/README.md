@@ -20,3 +20,5 @@ This script writes the contents of tls -la in a file called ls_cwd_content
 This script duplicates the last line of the file iacta
 ## 10-no_more_js
 This script deletes all javascript files.
+## 11-directories
+This script counts the number of directories we have
